@@ -1,0 +1,19 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+} 
+body{
+    background-color: #E9FFAC;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+table{
+    table-layout: fixed;
+    width: 250px;
+    font-size: 20px;
+    position: relative;
+}
